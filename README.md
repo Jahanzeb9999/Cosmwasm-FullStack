@@ -1,5 +1,4 @@
 # Dynamic Data Workshop
-![WebappUI](./public/WebappUI.png)
 
 ## Workshop Overview
 
